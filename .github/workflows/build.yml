@@ -28,5 +28,5 @@ jobs:
           args: >
             -Dsonar.projectKey=ex-arbete
             -Dsonar.sources=src
-            -Dsonar.host.url=${{ secrets.SONAR_HOST_URL }}
+            -Dsonar.host.url=http://localhost:9000
             -Dsonar.exclusions=**/test/**,**/*.md
