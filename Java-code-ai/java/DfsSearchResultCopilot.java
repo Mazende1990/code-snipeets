@@ -1,5 +1,4 @@
-
-package Java;
+package javacodehuman;
 
 import com.carrotsearch.hppc.ObjectObjectHashMap;
 import com.carrotsearch.hppc.cursors.ObjectObjectCursor;
@@ -18,7 +17,7 @@ import org.elasticsearch.search.internal.ShardSearchRequest;
 
 import java.io.IOException;
 
-public class DfsSearchResult extends SearchPhaseResult {
+public class DfsSearchResultCopilot extends SearchPhaseResult {
 
     private static final Term[] EMPTY_TERMS = new Term[0];
     private static final TermStatistics[] EMPTY_TERM_STATS = new TermStatistics[0];
@@ -30,18 +29,9 @@ public class DfsSearchResult extends SearchPhaseResult {
     public DfsSearchResult(StreamInput in) throws IOException {
         super(in);
         contextId = new ShardSearchContextId(in);
-        int termsSize = in.readVInt();
-        if (termsSize == 0) {
-            terms = EMPTY_TERMS;
-        } else {
-            terms = new Term[termsSize];
-            for (int i = 0; i < terms.length; i++) {
-                terms[i] = new Term(in.readString(), in.readBytesRef());
-            }
-        }
-        this.termStatistics = readTermStats(in, terms);
+        terms = readTerms(in);
+        termStatistics = readTermStats(in, terms);
         fieldStatistics = readFieldStats(in);
-
         maxDoc = in.readVInt();
         if (in.getVersion().onOrAfter(Version.V_7_10_0)) {
             setShardSearchRequest(in.readOptionalWriteable(ShardSearchRequest::new));
@@ -89,11 +79,7 @@ public class DfsSearchResult extends SearchPhaseResult {
     @Override
     public void writeTo(StreamOutput out) throws IOException {
         contextId.writeTo(out);
-        out.writeVInt(terms.length);
-        for (Term term : terms) {
-            out.writeString(term.field());
-            out.writeBytesRef(term.bytes());
-        }
+        writeTerms(out, terms);
         writeTermStats(out, termStatistics);
         writeFieldStats(out, fieldStatistics);
         out.writeVInt(maxDoc);
@@ -102,13 +88,23 @@ public class DfsSearchResult extends SearchPhaseResult {
         }
     }
 
+    private static Term[] readTerms(StreamInput in) throws IOException {
+        int termsSize = in.readVInt();
+        if (termsSize == 0) {
+            return EMPTY_TERMS;
+        }
+        Term[] terms = new Term[termsSize];
+        for (int i = 0; i < terms.length; i++) {
+            terms[i] = new Term(in.readString(), in.readBytesRef());
+        }
+        return terms;
+    }
+
     public static void writeFieldStats(StreamOutput out, ObjectObjectHashMap<String, CollectionStatistics> fieldStatistics) throws IOException {
         out.writeVInt(fieldStatistics.size());
-
         for (ObjectObjectCursor<String, CollectionStatistics> c : fieldStatistics) {
             out.writeString(c.key);
             CollectionStatistics statistics = c.value;
-            assert statistics.maxDoc() >= 0;
             out.writeVLong(statistics.maxDoc());
             out.writeVLong(statistics.docCount());
             out.writeVLong(statistics.sumTotalTermFreq());
@@ -125,7 +121,6 @@ public class DfsSearchResult extends SearchPhaseResult {
 
     public static void writeSingleTermStats(StreamOutput out, TermStatistics termStatistic) throws IOException {
         if (termStatistic != null) {
-            assert termStatistic.docFreq() > 0;
             out.writeVLong(termStatistic.docFreq());
             out.writeVLong(addOne(termStatistic.totalTermFreq()));
         } else {
@@ -135,37 +130,30 @@ public class DfsSearchResult extends SearchPhaseResult {
     }
 
     static ObjectObjectHashMap<String, CollectionStatistics> readFieldStats(StreamInput in) throws IOException {
-        final int numFieldStatistics = in.readVInt();
+        int numFieldStatistics = in.readVInt();
         ObjectObjectHashMap<String, CollectionStatistics> fieldStatistics = HppcMaps.newNoNullKeysMap(numFieldStatistics);
         for (int i = 0; i < numFieldStatistics; i++) {
-            final String field = in.readString();
-            assert field != null;
-            final long maxDoc = in.readVLong();
-            final long docCount = in.readVLong();
-            final long sumTotalTermFreq = in.readVLong();
-            final long sumDocFreq = in.readVLong();
-            CollectionStatistics stats = new CollectionStatistics(field, maxDoc, docCount, sumTotalTermFreq, sumDocFreq);
-            fieldStatistics.put(field, stats);
+            String field = in.readString();
+            long maxDoc = in.readVLong();
+            long docCount = in.readVLong();
+            long sumTotalTermFreq = in.readVLong();
+            long sumDocFreq = in.readVLong();
+            fieldStatistics.put(field, new CollectionStatistics(field, maxDoc, docCount, sumTotalTermFreq, sumDocFreq));
         }
         return fieldStatistics;
     }
 
     static TermStatistics[] readTermStats(StreamInput in, Term[] terms) throws IOException {
         int termsStatsSize = in.readVInt();
-        final TermStatistics[] termStatistics;
         if (termsStatsSize == 0) {
-            termStatistics = EMPTY_TERM_STATS;
-        } else {
-            termStatistics = new TermStatistics[termsStatsSize];
-            assert terms.length == termsStatsSize;
-            for (int i = 0; i < termStatistics.length; i++) {
-                BytesRef term = terms[i].bytes();
-                final long docFreq = in.readVLong();
-                assert docFreq >= 0;
-                final long totalTermFreq = subOne(in.readVLong());
-                if (docFreq == 0) {
-                    continue;
-                }
+            return EMPTY_TERM_STATS;
+        }
+        TermStatistics[] termStatistics = new TermStatistics[termsStatsSize];
+        for (int i = 0; i < termStatistics.length; i++) {
+            BytesRef term = terms[i].bytes();
+            long docFreq = in.readVLong();
+            long totalTermFreq = subOne(in.readVLong());
+            if (docFreq > 0) {
                 termStatistics[i] = new TermStatistics(term, docFreq, totalTermFreq);
             }
         }
@@ -173,12 +161,10 @@ public class DfsSearchResult extends SearchPhaseResult {
     }
 
     public static long addOne(long value) {
-        assert value + 1 >= 0;
         return value + 1;
     }
 
     public static long subOne(long value) {
-        assert value >= 0;
         return value - 1;
     }
 }
