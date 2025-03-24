@@ -1,209 +1,177 @@
-Java-code-ai/java/s3/BellmanFord.java:11:	MethodArgumentCouldBeFinal:	Parameter 'vertexCount' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:11:	MethodArgumentCouldBeFinal:	Parameter 'edgeCount' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:18:	ShortClassName:	Avoid short class names like Edge
-Java-code-ai/java/s3/BellmanFord.java:18:	CommentDefaultAccessModifier:	Missing commented default access modifier on nested class 'Edge'
-Java-code-ai/java/s3/BellmanFord.java:19:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'from'
-Java-code-ai/java/s3/BellmanFord.java:19:	ShortVariable:	Avoid variables with short names like to
-Java-code-ai/java/s3/BellmanFord.java:21:	MethodArgumentCouldBeFinal:	Parameter 'from' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:21:	ShortVariable:	Avoid variables with short names like to
-Java-code-ai/java/s3/BellmanFord.java:21:	MethodArgumentCouldBeFinal:	Parameter 'to' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:21:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:29:	MethodArgumentCouldBeFinal:	Parameter 'from' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:29:	ShortVariable:	Avoid variables with short names like to
-Java-code-ai/java/s3/BellmanFord.java:29:	MethodArgumentCouldBeFinal:	Parameter 'to' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:29:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:38:	MethodArgumentCouldBeFinal:	Parameter 'parent' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:38:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:39:	ControlStatementBraces:	This statement should have braces
-Java-code-ai/java/s3/BellmanFord.java:45:	ShortMethodName:	Avoid using short method names
-Java-code-ai/java/s3/BellmanFord.java:46:	ShortVariable:	Avoid variables with short names like sc
-Java-code-ai/java/s3/BellmanFord.java:46:	LocalVariableCouldBeFinal:	Local variable 'sc' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:49:	ShortVariable:	Avoid variables with short names like v
-Java-code-ai/java/s3/BellmanFord.java:49:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:50:	ShortVariable:	Avoid variables with short names like e
-Java-code-ai/java/s3/BellmanFord.java:50:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:51:	LocalVariableCouldBeFinal:	Local variable 'inputEdges' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:55:	LocalVariableCouldBeFinal:	Local variable 'from' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:56:	ShortVariable:	Avoid variables with short names like to
-Java-code-ai/java/s3/BellmanFord.java:56:	LocalVariableCouldBeFinal:	Local variable 'to' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:57:	LocalVariableCouldBeFinal:	Local variable 'weight' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:61:	LocalVariableCouldBeFinal:	Local variable 'source' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:68:	MethodArgumentCouldBeFinal:	Parameter 'vertexCount' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:68:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:68:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:69:	LocalVariableCouldBeFinal:	Local variable 'distance' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:70:	LocalVariableCouldBeFinal:	Local variable 'parent' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:78:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:87:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:112:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:112:	MethodArgumentCouldBeFinal:	Parameter 'destination' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:112:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFord.java:113:	LocalVariableCouldBeFinal:	Local variable 'distance' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:114:	LocalVariableCouldBeFinal:	Local variable 'parent' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:122:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:131:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFord.java:149:	LocalVariableCouldBeFinal:	Local variable 'graph' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:19:	ShortClassName:	Avoid short class names like Edge
-Java-code-ai/java/s3/BellmanFordClaude.java:19:	CommentDefaultAccessModifier:	Missing commented default access modifier on nested class 'Edge'
-Java-code-ai/java/s3/BellmanFordClaude.java:20:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'source'
-Java-code-ai/java/s3/BellmanFordClaude.java:21:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'destination'
-Java-code-ai/java/s3/BellmanFordClaude.java:22:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'weight'
-Java-code-ai/java/s3/BellmanFordClaude.java:31:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:31:	MethodArgumentCouldBeFinal:	Parameter 'destination' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:31:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:44:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:44:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:57:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:57:	MethodArgumentCouldBeFinal:	Parameter 'destination' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:57:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:80:	MethodArgumentCouldBeFinal:	Parameter 'parent' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:80:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:95:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:95:	MethodArgumentCouldBeFinal:	Parameter 'destination' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:95:	MethodArgumentCouldBeFinal:	Parameter 'edgeArray' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:96:	LocalVariableCouldBeFinal:	Local variable 'distance' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:97:	LocalVariableCouldBeFinal:	Local variable 'parent' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:110:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:121:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:144:	LocalVariableCouldBeFinal:	Local variable 'scanner' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:148:	LocalVariableCouldBeFinal:	Local variable 'vertices' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:149:	LocalVariableCouldBeFinal:	Local variable 'edgesCount' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:150:	LocalVariableCouldBeFinal:	Local variable 'graphEdges' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:155:	LocalVariableCouldBeFinal:	Local variable 'source' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:156:	LocalVariableCouldBeFinal:	Local variable 'destination' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:157:	LocalVariableCouldBeFinal:	Local variable 'weight' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:161:	LocalVariableCouldBeFinal:	Local variable 'distance' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:162:	LocalVariableCouldBeFinal:	Local variable 'parent' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:175:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:186:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordClaude.java:217:	LocalVariableCouldBeFinal:	Local variable 'algorithm' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:11:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'BellmanFordCo(int, int)'
-Java-code-ai/java/s3/BellmanFordCo.java:11:	ShortVariable:	Avoid variables with short names like v
-Java-code-ai/java/s3/BellmanFordCo.java:11:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:11:	ShortVariable:	Avoid variables with short names like e
-Java-code-ai/java/s3/BellmanFordCo.java:11:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:17:	ShortClassName:	Avoid short class names like Edge
-Java-code-ai/java/s3/BellmanFordCo.java:17:	CommentDefaultAccessModifier:	Missing commented default access modifier on nested class 'Edge'
-Java-code-ai/java/s3/BellmanFordCo.java:18:	ShortVariable:	Avoid variables with short names like u
-Java-code-ai/java/s3/BellmanFordCo.java:18:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'u'
-Java-code-ai/java/s3/BellmanFordCo.java:18:	ShortVariable:	Avoid variables with short names like v
-Java-code-ai/java/s3/BellmanFordCo.java:18:	ShortVariable:	Avoid variables with short names like w
-Java-code-ai/java/s3/BellmanFordCo.java:20:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'Edge(int, int, int)'
-Java-code-ai/java/s3/BellmanFordCo.java:20:	ShortVariable:	Avoid variables with short names like u
-Java-code-ai/java/s3/BellmanFordCo.java:20:	MethodArgumentCouldBeFinal:	Parameter 'u' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:20:	ShortVariable:	Avoid variables with short names like v
-Java-code-ai/java/s3/BellmanFordCo.java:20:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:20:	ShortVariable:	Avoid variables with short names like w
-Java-code-ai/java/s3/BellmanFordCo.java:20:	MethodArgumentCouldBeFinal:	Parameter 'w' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:27:	CommentDefaultAccessModifier:	Missing commented default access modifier on method 'printPath(int[], int)'
-Java-code-ai/java/s3/BellmanFordCo.java:27:	MethodArgumentCouldBeFinal:	Parameter 'parent' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:27:	ShortVariable:	Avoid variables with short names like i
-Java-code-ai/java/s3/BellmanFordCo.java:27:	MethodArgumentCouldBeFinal:	Parameter 'i' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:36:	LocalVariableCouldBeFinal:	Local variable 'obj' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:41:	ShortVariable:	Avoid variables with short names like sc
-Java-code-ai/java/s3/BellmanFordCo.java:41:	LocalVariableCouldBeFinal:	Local variable 'sc' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:43:	ShortVariable:	Avoid variables with short names like v
-Java-code-ai/java/s3/BellmanFordCo.java:43:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:44:	ShortVariable:	Avoid variables with short names like e
-Java-code-ai/java/s3/BellmanFordCo.java:44:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:45:	LocalVariableCouldBeFinal:	Local variable 'arr' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:49:	ShortVariable:	Avoid variables with short names like u
-Java-code-ai/java/s3/BellmanFordCo.java:49:	LocalVariableCouldBeFinal:	Local variable 'u' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:50:	ShortVariable:	Avoid variables with short names like ve
-Java-code-ai/java/s3/BellmanFordCo.java:50:	LocalVariableCouldBeFinal:	Local variable 've' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:51:	ShortVariable:	Avoid variables with short names like w
-Java-code-ai/java/s3/BellmanFordCo.java:51:	LocalVariableCouldBeFinal:	Local variable 'w' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:55:	LocalVariableCouldBeFinal:	Local variable 'dist' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:56:	LocalVariableCouldBeFinal:	Local variable 'parent' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:62:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:71:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:94:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:94:	MethodArgumentCouldBeFinal:	Parameter 'end' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:94:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:95:	LocalVariableCouldBeFinal:	Local variable 'dist' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:96:	LocalVariableCouldBeFinal:	Local variable 'parent' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:102:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:111:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:128:	ShortVariable:	Avoid variables with short names like x
-Java-code-ai/java/s3/BellmanFordCo.java:128:	MethodArgumentCouldBeFinal:	Parameter 'x' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:128:	ShortVariable:	Avoid variables with short names like y
-Java-code-ai/java/s3/BellmanFordCo.java:128:	MethodArgumentCouldBeFinal:	Parameter 'y' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordCo.java:128:	ShortVariable:	Avoid variables with short names like z
-Java-code-ai/java/s3/BellmanFordCo.java:128:	MethodArgumentCouldBeFinal:	Parameter 'z' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:12:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'BellmanFordDeep(int, int)'
-Java-code-ai/java/s3/BellmanFordDeep.java:12:	MethodArgumentCouldBeFinal:	Parameter 'vertexCount' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:12:	MethodArgumentCouldBeFinal:	Parameter 'edgeCount' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:18:	ShortClassName:	Avoid short class names like Edge
-Java-code-ai/java/s3/BellmanFordDeep.java:18:	CommentDefaultAccessModifier:	Missing commented default access modifier on nested class 'Edge'
-Java-code-ai/java/s3/BellmanFordDeep.java:19:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'startVertex'
-Java-code-ai/java/s3/BellmanFordDeep.java:20:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'endVertex'
-Java-code-ai/java/s3/BellmanFordDeep.java:21:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'weight'
-Java-code-ai/java/s3/BellmanFordDeep.java:23:	MethodArgumentCouldBeFinal:	Parameter 'startVertex' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:23:	MethodArgumentCouldBeFinal:	Parameter 'endVertex' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:23:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:31:	LocalVariableCouldBeFinal:	Local variable 'bellmanFord' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:36:	LocalVariableCouldBeFinal:	Local variable 'scanner' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:38:	LocalVariableCouldBeFinal:	Local variable 'vertexCount' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:39:	LocalVariableCouldBeFinal:	Local variable 'edgeCount' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:41:	LocalVariableCouldBeFinal:	Local variable 'edges' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:44:	LocalVariableCouldBeFinal:	Local variable 'startVertex' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:45:	LocalVariableCouldBeFinal:	Local variable 'endVertex' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:46:	LocalVariableCouldBeFinal:	Local variable 'weight' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:50:	LocalVariableCouldBeFinal:	Local variable 'distances' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:51:	LocalVariableCouldBeFinal:	Local variable 'predecessors' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:54:	LocalVariableCouldBeFinal:	Local variable 'hasNegativeCycle' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:56:	ConfusingTernary:	Avoid if (x != y) ..; else ..;
-Java-code-ai/java/s3/BellmanFordDeep.java:66:	MethodArgumentCouldBeFinal:	Parameter 'distances' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:66:	MethodArgumentCouldBeFinal:	Parameter 'predecessors' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:66:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:74:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:74:	MethodArgumentCouldBeFinal:	Parameter 'distances' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:74:	MethodArgumentCouldBeFinal:	Parameter 'predecessors' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:76:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:85:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:88:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Java-code-ai/java/s3/BellmanFordDeep.java:94:	MethodArgumentCouldBeFinal:	Parameter 'distances' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:101:	MethodArgumentCouldBeFinal:	Parameter 'predecessors' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:110:	MethodArgumentCouldBeFinal:	Parameter 'predecessors' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:110:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:119:	MethodArgumentCouldBeFinal:	Parameter 'startVertex' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:119:	MethodArgumentCouldBeFinal:	Parameter 'endVertex' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordDeep.java:119:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:13:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'BellmanFordGemini(int, int)'
-Java-code-ai/java/s3/BellmanFordGemini.java:13:	MethodArgumentCouldBeFinal:	Parameter 'vertexCount' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:13:	MethodArgumentCouldBeFinal:	Parameter 'edgeCount' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:19:	ShortClassName:	Avoid short class names like Edge
-Java-code-ai/java/s3/BellmanFordGemini.java:19:	CommentDefaultAccessModifier:	Missing commented default access modifier on nested class 'Edge'
-Java-code-ai/java/s3/BellmanFordGemini.java:20:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'source'
-Java-code-ai/java/s3/BellmanFordGemini.java:21:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'destination'
-Java-code-ai/java/s3/BellmanFordGemini.java:22:	CommentDefaultAccessModifier:	Missing commented default access modifier on field 'weight'
-Java-code-ai/java/s3/BellmanFordGemini.java:24:	CommentDefaultAccessModifier:	Missing commented default access modifier on constructor 'Edge(int, int, int)'
-Java-code-ai/java/s3/BellmanFordGemini.java:24:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:24:	MethodArgumentCouldBeFinal:	Parameter 'destination' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:24:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:31:	MethodArgumentCouldBeFinal:	Parameter 'parent' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:31:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:40:	LocalVariableCouldBeFinal:	Local variable 'bellmanFord' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:45:	LocalVariableCouldBeFinal:	Local variable 'scanner' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:53:	LocalVariableCouldBeFinal:	Local variable 'source' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:54:	LocalVariableCouldBeFinal:	Local variable 'destination' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:55:	LocalVariableCouldBeFinal:	Local variable 'weight' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:59:	LocalVariableCouldBeFinal:	Local variable 'distances' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:60:	LocalVariableCouldBeFinal:	Local variable 'parent' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:82:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:82:	MethodArgumentCouldBeFinal:	Parameter 'destination' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:82:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:87:	LocalVariableCouldBeFinal:	Local variable 'distances' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:88:	LocalVariableCouldBeFinal:	Local variable 'parent' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:102:	MethodArgumentCouldBeFinal:	Parameter 'distances' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:102:	MethodArgumentCouldBeFinal:	Parameter 'parent' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:104:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:112:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:115:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Java-code-ai/java/s3/BellmanFordGemini.java:121:	MethodArgumentCouldBeFinal:	Parameter 'source' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:121:	MethodArgumentCouldBeFinal:	Parameter 'destination' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:121:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:131:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
-Java-code-ai/java/s3/BellmanFordGemini.java:133:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Java-code-ai/java/s3/BellmanFordGemini.java:133:	ControlStatementBraces:	This statement should have braces
-Java-code-ai/java/s3/BellmanFordGemini.java:134:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Javacodehuman/s4/Graph.java:21:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+Javacodehuman/s4/Graph.java:22:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+Javacodehuman/s4/Graph.java:33:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:38:	ShortVariable:	Avoid variables with short names like g
+Javacodehuman/s4/Graph.java:38:	MethodArgumentCouldBeFinal:	Parameter 'g' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:42:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:42:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Javacodehuman/s4/Graph.java:43:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new Vertex<>(v)`
+Javacodehuman/s4/Graph.java:45:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Javacodehuman/s4/Graph.java:46:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Javacodehuman/s4/Graph.java:61:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:61:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:74:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:74:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:74:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:80:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Javacodehuman/s4/Graph.java:82:	ShortVariable:	Avoid variables with short names like to
+Javacodehuman/s4/Graph.java:85:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:89:	LocalVariableCouldBeFinal:	Local variable 'reciprical' could be declared final
+Javacodehuman/s4/Graph.java:89:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new Edge<>(e.cost, to, from)`
+Javacodehuman/s4/Graph.java:114:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:114:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Javacodehuman/s4/Graph.java:116:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:116:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Javacodehuman/s4/Graph.java:125:	ShortVariable:	Avoid variables with short names like g1
+Javacodehuman/s4/Graph.java:125:	MethodArgumentCouldBeFinal:	Parameter 'g1' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:127:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:127:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:129:	ShortVariable:	Avoid variables with short names like g
+Javacodehuman/s4/Graph.java:133:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:133:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:135:	LongVariable:	Avoid excessively long variable names like verticesSizeEquals
+Javacodehuman/s4/Graph.java:137:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:137:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:141:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:141:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:149:	ShortVariable:	Avoid variables with short names like v1
+Javacodehuman/s4/Graph.java:150:	ShortVariable:	Avoid variables with short names like v2
+Javacodehuman/s4/Graph.java:152:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:152:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:161:	ShortVariable:	Avoid variables with short names like e1
+Javacodehuman/s4/Graph.java:162:	ShortVariable:	Avoid variables with short names like e2
+Javacodehuman/s4/Graph.java:164:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:164:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:176:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:176:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Javacodehuman/s4/Graph.java:185:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+Javacodehuman/s4/Graph.java:187:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:191:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:191:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:197:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:211:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:215:	ShortVariable:	Avoid variables with short names like e
+Javacodehuman/s4/Graph.java:215:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:223:	ShortVariable:	Avoid variables with short names like v
+Javacodehuman/s4/Graph.java:223:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:224:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Javacodehuman/s4/Graph.java:226:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:226:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:231:	ShortVariable:	Avoid variables with short names like v
+Javacodehuman/s4/Graph.java:231:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:232:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Javacodehuman/s4/Graph.java:234:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:234:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:252:	ShortVariable:	Avoid variables with short names like v1
+Javacodehuman/s4/Graph.java:252:	MethodArgumentCouldBeFinal:	Parameter 'v1' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:254:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:254:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:256:	ShortVariable:	Avoid variables with short names like v
+Javacodehuman/s4/Graph.java:260:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:260:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:264:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:264:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:268:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:268:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:274:	ShortVariable:	Avoid variables with short names like e1
+Javacodehuman/s4/Graph.java:275:	ShortVariable:	Avoid variables with short names like e2
+Javacodehuman/s4/Graph.java:277:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:277:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:287:	ShortVariable:	Avoid variables with short names like v
+Javacodehuman/s4/Graph.java:287:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:290:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:290:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:293:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:293:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:295:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:295:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:298:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:298:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:300:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:300:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:306:	ShortVariable:	Avoid variables with short names like e1
+Javacodehuman/s4/Graph.java:307:	ShortVariable:	Avoid variables with short names like e2
+Javacodehuman/s4/Graph.java:309:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:309:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:311:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:311:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:324:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:324:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Javacodehuman/s4/Graph.java:330:	ShortClassName:	Avoid short class names like Edge
+Javacodehuman/s4/Graph.java:333:	ShortVariable:	Avoid variables with short names like to
+Javacodehuman/s4/Graph.java:336:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:336:	MethodArgumentCouldBeFinal:	Parameter 'from' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:336:	ShortVariable:	Avoid variables with short names like to
+Javacodehuman/s4/Graph.java:336:	MethodArgumentCouldBeFinal:	Parameter 'to' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:338:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:338:	UselessParentheses:	Useless parentheses.
+Javacodehuman/s4/Graph.java:345:	ShortVariable:	Avoid variables with short names like e
+Javacodehuman/s4/Graph.java:345:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:353:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:370:	UselessParentheses:	Useless parentheses.
+Javacodehuman/s4/Graph.java:370:	UselessParentheses:	Useless parentheses.
+Javacodehuman/s4/Graph.java:378:	ShortVariable:	Avoid variables with short names like e1
+Javacodehuman/s4/Graph.java:378:	MethodArgumentCouldBeFinal:	Parameter 'e1' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:380:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:380:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:382:	ShortVariable:	Avoid variables with short names like e
+Javacodehuman/s4/Graph.java:386:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:386:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:390:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:390:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:392:	ShortVariable:	Avoid variables with short names like to
+Javacodehuman/s4/Graph.java:394:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:394:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:403:	ShortVariable:	Avoid variables with short names like e
+Javacodehuman/s4/Graph.java:403:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:405:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:405:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:407:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:407:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:411:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:411:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:413:	ShortVariable:	Avoid variables with short names like to
+Javacodehuman/s4/Graph.java:415:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:415:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:425:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
+Javacodehuman/s4/Graph.java:437:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:437:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:439:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:439:	UselessParentheses:	Useless parentheses.
+Javacodehuman/s4/Graph.java:449:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:462:	UselessParentheses:	Useless parentheses.
+Javacodehuman/s4/Graph.java:469:	ShortVariable:	Avoid variables with short names like e1
+Javacodehuman/s4/Graph.java:469:	MethodArgumentCouldBeFinal:	Parameter 'e1' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:471:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:471:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:475:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:475:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:478:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:478:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:487:	ShortVariable:	Avoid variables with short names like p
+Javacodehuman/s4/Graph.java:487:	MethodArgumentCouldBeFinal:	Parameter 'p' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:489:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:492:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:492:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:494:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:494:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:514:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:514:	MethodArgumentCouldBeFinal:	Parameter 'path' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:516:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:516:	UselessParentheses:	Useless parentheses.
+Javacodehuman/s4/Graph.java:526:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:540:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:540:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Javacodehuman/s4/Graph.java:549:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Javacodehuman/s4/Graph.java:551:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:551:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:555:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:555:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:560:	ShortVariable:	Avoid variables with short names like e1
+Javacodehuman/s4/Graph.java:560:	LocalVariableCouldBeFinal:	Local variable 'e1' could be declared final
+Javacodehuman/s4/Graph.java:561:	ShortVariable:	Avoid variables with short names like e2
+Javacodehuman/s4/Graph.java:561:	LocalVariableCouldBeFinal:	Local variable 'e2' could be declared final
+Javacodehuman/s4/Graph.java:563:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Javacodehuman/s4/Graph.java:563:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:576:	ControlStatementBraces:	This statement should have braces
+Javacodehuman/s4/Graph.java:576:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
