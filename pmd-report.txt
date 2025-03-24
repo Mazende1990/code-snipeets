@@ -1,177 +1,140 @@
-Javacodehuman/s4/Graph.java:21:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
-Javacodehuman/s4/Graph.java:22:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
-Javacodehuman/s4/Graph.java:33:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:38:	ShortVariable:	Avoid variables with short names like g
-Javacodehuman/s4/Graph.java:38:	MethodArgumentCouldBeFinal:	Parameter 'g' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:42:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:42:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
-Javacodehuman/s4/Graph.java:43:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new Vertex<>(v)`
-Javacodehuman/s4/Graph.java:45:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
-Javacodehuman/s4/Graph.java:46:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
-Javacodehuman/s4/Graph.java:61:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:61:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:74:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:74:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:74:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:80:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
-Javacodehuman/s4/Graph.java:82:	ShortVariable:	Avoid variables with short names like to
-Javacodehuman/s4/Graph.java:85:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:89:	LocalVariableCouldBeFinal:	Local variable 'reciprical' could be declared final
-Javacodehuman/s4/Graph.java:89:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new Edge<>(e.cost, to, from)`
-Javacodehuman/s4/Graph.java:114:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:114:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
-Javacodehuman/s4/Graph.java:116:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:116:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
-Javacodehuman/s4/Graph.java:125:	ShortVariable:	Avoid variables with short names like g1
-Javacodehuman/s4/Graph.java:125:	MethodArgumentCouldBeFinal:	Parameter 'g1' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:127:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:127:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:129:	ShortVariable:	Avoid variables with short names like g
-Javacodehuman/s4/Graph.java:133:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:133:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:135:	LongVariable:	Avoid excessively long variable names like verticesSizeEquals
-Javacodehuman/s4/Graph.java:137:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:137:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:141:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:141:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:149:	ShortVariable:	Avoid variables with short names like v1
-Javacodehuman/s4/Graph.java:150:	ShortVariable:	Avoid variables with short names like v2
-Javacodehuman/s4/Graph.java:152:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:152:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:161:	ShortVariable:	Avoid variables with short names like e1
-Javacodehuman/s4/Graph.java:162:	ShortVariable:	Avoid variables with short names like e2
-Javacodehuman/s4/Graph.java:164:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:164:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:176:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:176:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
-Javacodehuman/s4/Graph.java:185:	UseDiamondOperator:	Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
-Javacodehuman/s4/Graph.java:187:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:191:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:191:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:197:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:211:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:215:	ShortVariable:	Avoid variables with short names like e
-Javacodehuman/s4/Graph.java:215:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:223:	ShortVariable:	Avoid variables with short names like v
-Javacodehuman/s4/Graph.java:223:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:224:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
-Javacodehuman/s4/Graph.java:226:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:226:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:231:	ShortVariable:	Avoid variables with short names like v
-Javacodehuman/s4/Graph.java:231:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:232:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
-Javacodehuman/s4/Graph.java:234:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:234:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:252:	ShortVariable:	Avoid variables with short names like v1
-Javacodehuman/s4/Graph.java:252:	MethodArgumentCouldBeFinal:	Parameter 'v1' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:254:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:254:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:256:	ShortVariable:	Avoid variables with short names like v
-Javacodehuman/s4/Graph.java:260:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:260:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:264:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:264:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:268:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:268:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:274:	ShortVariable:	Avoid variables with short names like e1
-Javacodehuman/s4/Graph.java:275:	ShortVariable:	Avoid variables with short names like e2
-Javacodehuman/s4/Graph.java:277:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:277:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:287:	ShortVariable:	Avoid variables with short names like v
-Javacodehuman/s4/Graph.java:287:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:290:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:290:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:293:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:293:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:295:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:295:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:298:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:298:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:300:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:300:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:306:	ShortVariable:	Avoid variables with short names like e1
-Javacodehuman/s4/Graph.java:307:	ShortVariable:	Avoid variables with short names like e2
-Javacodehuman/s4/Graph.java:309:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:309:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:311:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:311:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:324:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:324:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
-Javacodehuman/s4/Graph.java:330:	ShortClassName:	Avoid short class names like Edge
-Javacodehuman/s4/Graph.java:333:	ShortVariable:	Avoid variables with short names like to
-Javacodehuman/s4/Graph.java:336:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:336:	MethodArgumentCouldBeFinal:	Parameter 'from' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:336:	ShortVariable:	Avoid variables with short names like to
-Javacodehuman/s4/Graph.java:336:	MethodArgumentCouldBeFinal:	Parameter 'to' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:338:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:338:	UselessParentheses:	Useless parentheses.
-Javacodehuman/s4/Graph.java:345:	ShortVariable:	Avoid variables with short names like e
-Javacodehuman/s4/Graph.java:345:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:353:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:370:	UselessParentheses:	Useless parentheses.
-Javacodehuman/s4/Graph.java:370:	UselessParentheses:	Useless parentheses.
-Javacodehuman/s4/Graph.java:378:	ShortVariable:	Avoid variables with short names like e1
-Javacodehuman/s4/Graph.java:378:	MethodArgumentCouldBeFinal:	Parameter 'e1' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:380:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:380:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:382:	ShortVariable:	Avoid variables with short names like e
-Javacodehuman/s4/Graph.java:386:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:386:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:390:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:390:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:392:	ShortVariable:	Avoid variables with short names like to
-Javacodehuman/s4/Graph.java:394:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:394:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:403:	ShortVariable:	Avoid variables with short names like e
-Javacodehuman/s4/Graph.java:403:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:405:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:405:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:407:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:407:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:411:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:411:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:413:	ShortVariable:	Avoid variables with short names like to
-Javacodehuman/s4/Graph.java:415:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:415:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:425:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
-Javacodehuman/s4/Graph.java:437:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:437:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:439:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:439:	UselessParentheses:	Useless parentheses.
-Javacodehuman/s4/Graph.java:449:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:462:	UselessParentheses:	Useless parentheses.
-Javacodehuman/s4/Graph.java:469:	ShortVariable:	Avoid variables with short names like e1
-Javacodehuman/s4/Graph.java:469:	MethodArgumentCouldBeFinal:	Parameter 'e1' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:471:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:471:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:475:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:475:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:478:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:478:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:487:	ShortVariable:	Avoid variables with short names like p
-Javacodehuman/s4/Graph.java:487:	MethodArgumentCouldBeFinal:	Parameter 'p' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:489:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:492:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:492:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:494:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:494:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:514:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:514:	MethodArgumentCouldBeFinal:	Parameter 'path' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:516:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:516:	UselessParentheses:	Useless parentheses.
-Javacodehuman/s4/Graph.java:526:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:540:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:540:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
-Javacodehuman/s4/Graph.java:549:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
-Javacodehuman/s4/Graph.java:551:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:551:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:555:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:555:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:560:	ShortVariable:	Avoid variables with short names like e1
-Javacodehuman/s4/Graph.java:560:	LocalVariableCouldBeFinal:	Local variable 'e1' could be declared final
-Javacodehuman/s4/Graph.java:561:	ShortVariable:	Avoid variables with short names like e2
-Javacodehuman/s4/Graph.java:561:	LocalVariableCouldBeFinal:	Local variable 'e2' could be declared final
-Javacodehuman/s4/Graph.java:563:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Javacodehuman/s4/Graph.java:563:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:576:	ControlStatementBraces:	This statement should have braces
-Javacodehuman/s4/Graph.java:576:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:30:	AtLeastOneConstructor:	Each class should declare at least one constructor
+Java-code-ai/java/s6/AboutActivity.java:36:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
+Java-code-ai/java/s6/AboutActivity.java:37:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
+Java-code-ai/java/s6/AboutActivity.java:38:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
+Java-code-ai/java/s6/AboutActivity.java:39:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
+Java-code-ai/java/s6/AboutActivity.java:40:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
+Java-code-ai/java/s6/AboutActivity.java:43:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
+Java-code-ai/java/s6/AboutActivity.java:48:	LongVariable:	Avoid excessively long variable names like mCollapsingToolbarLayout
+Java-code-ai/java/s6/AboutActivity.java:50:	LongVariable:	Avoid excessively long variable names like mDeveloper1Divider
+Java-code-ai/java/s6/AboutActivity.java:54:	LongVariable:	Avoid excessively long variable names like savedInstanceState
+Java-code-ai/java/s6/AboutActivity.java:54:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivity.java:88:	LocalVariableCouldBeFinal:	Local variable 'mToolbar' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:96:	LocalVariableCouldBeFinal:	Local variable 'bitmap' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:98:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:99:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:117:	LocalVariableCouldBeFinal:	Local variable 'layoutParams' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:119:	LocalVariableCouldBeFinal:	Local variable 'aspectRatio' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:120:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:128:	LocalVariableCouldBeFinal:	Local variable 'color' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:135:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivity.java:138:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s6/AboutActivity.java:144:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s6/AboutActivity.java:144:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivity.java:186:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
+Java-code-ai/java/s6/AboutActivity.java:218:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s6/AboutActivityClaude.java:34:	AtLeastOneConstructor:	Each class should declare at least one constructor
+Java-code-ai/java/s6/AboutActivityClaude.java:43:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
+Java-code-ai/java/s6/AboutActivityClaude.java:44:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
+Java-code-ai/java/s6/AboutActivityClaude.java:45:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
+Java-code-ai/java/s6/AboutActivityClaude.java:46:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
+Java-code-ai/java/s6/AboutActivityClaude.java:51:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
+Java-code-ai/java/s6/AboutActivityClaude.java:52:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
+Java-code-ai/java/s6/AboutActivityClaude.java:58:	LongVariable:	Avoid excessively long variable names like collapsingToolbarLayout
+Java-code-ai/java/s6/AboutActivityClaude.java:65:	LongVariable:	Avoid excessively long variable names like savedInstanceState
+Java-code-ai/java/s6/AboutActivityClaude.java:65:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:79:	LocalVariableCouldBeFinal:	Local variable 'theme' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:107:	LocalVariableCouldBeFinal:	Local variable 'toolbar' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:122:	LocalVariableCouldBeFinal:	Local variable 'alphaRatio' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:135:	LocalVariableCouldBeFinal:	Local variable 'headerBitmap' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:139:	LocalVariableCouldBeFinal:	Local variable 'primaryColor' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:139:	UselessQualifiedThis:	Useless qualified this usage in the same class.
+Java-code-ai/java/s6/AboutActivityClaude.java:140:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:141:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:156:	LocalVariableCouldBeFinal:	Local variable 'theme' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:158:	LocalVariableCouldBeFinal:	Local variable 'dividerColor' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:170:	LocalVariableCouldBeFinal:	Local variable 'layoutParams' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:173:	LocalVariableCouldBeFinal:	Local variable 'aspectRatio' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:173:	UnnecessaryCast:	Unnecessary cast (float)
+Java-code-ai/java/s6/AboutActivityClaude.java:173:	UnnecessaryCast:	Unnecessary cast (float)
+Java-code-ai/java/s6/AboutActivityClaude.java:174:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:175:	LocalVariableCouldBeFinal:	Local variable 'calculatedHeight' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:186:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:189:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s6/AboutActivityClaude.java:195:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s6/AboutActivityClaude.java:195:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:196:	ShortVariable:	Avoid variables with short names like id
+Java-code-ai/java/s6/AboutActivityClaude.java:196:	LocalVariableCouldBeFinal:	Local variable 'id' could be declared final
+Java-code-ai/java/s6/AboutActivityClaude.java:229:	LocalVariableCouldBeFinal:	Local variable 'libsBuilder' could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:33:	AtLeastOneConstructor:	Each class should declare at least one constructor
+Java-code-ai/java/s6/AboutActivityCo.java:40:	LongVariable:	Avoid excessively long variable names like mCollapsingToolbarLayout
+Java-code-ai/java/s6/AboutActivityCo.java:42:	LongVariable:	Avoid excessively long variable names like mDeveloper1Divider
+Java-code-ai/java/s6/AboutActivityCo.java:45:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
+Java-code-ai/java/s6/AboutActivityCo.java:46:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
+Java-code-ai/java/s6/AboutActivityCo.java:47:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
+Java-code-ai/java/s6/AboutActivityCo.java:48:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
+Java-code-ai/java/s6/AboutActivityCo.java:49:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
+Java-code-ai/java/s6/AboutActivityCo.java:52:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
+Java-code-ai/java/s6/AboutActivityCo.java:57:	LongVariable:	Avoid excessively long variable names like savedInstanceState
+Java-code-ai/java/s6/AboutActivityCo.java:57:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:92:	LocalVariableCouldBeFinal:	Local variable 'mToolbar' could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:101:	LocalVariableCouldBeFinal:	Local variable 'bitmap' could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:103:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:103:	UselessQualifiedThis:	Useless qualified this usage in the same class.
+Java-code-ai/java/s6/AboutActivityCo.java:104:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:104:	UselessQualifiedThis:	Useless qualified this usage in the same class.
+Java-code-ai/java/s6/AboutActivityCo.java:123:	LocalVariableCouldBeFinal:	Local variable 'layoutParams' could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:124:	LocalVariableCouldBeFinal:	Local variable 'vidAspectRatio' could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:125:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:126:	LongVariable:	Avoid excessively long variable names like reqHeightAsPerAspectRatio
+Java-code-ai/java/s6/AboutActivityCo.java:126:	LocalVariableCouldBeFinal:	Local variable 'reqHeightAsPerAspectRatio' could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:133:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:148:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s6/AboutActivityCo.java:148:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityCo.java:190:	LocalVariableCouldBeFinal:	Local variable 'libsBuilder' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:21:	UnnecessaryImport:	Unused import 'com.amaze.filemanager.ui.theme.AppTheme'
+Java-code-ai/java/s6/AboutActivityDeep.java:32:	AtLeastOneConstructor:	Each class should declare at least one constructor
+Java-code-ai/java/s6/AboutActivityDeep.java:39:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
+Java-code-ai/java/s6/AboutActivityDeep.java:40:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
+Java-code-ai/java/s6/AboutActivityDeep.java:41:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
+Java-code-ai/java/s6/AboutActivityDeep.java:42:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
+Java-code-ai/java/s6/AboutActivityDeep.java:43:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
+Java-code-ai/java/s6/AboutActivityDeep.java:46:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
+Java-code-ai/java/s6/AboutActivityDeep.java:52:	LongVariable:	Avoid excessively long variable names like collapsingToolbarLayout
+Java-code-ai/java/s6/AboutActivityDeep.java:60:	LongVariable:	Avoid excessively long variable names like savedInstanceState
+Java-code-ai/java/s6/AboutActivityDeep.java:60:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:95:	LocalVariableCouldBeFinal:	Local variable 'toolbar' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:106:	LocalVariableCouldBeFinal:	Local variable 'bitmap' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:110:	MethodArgumentCouldBeFinal:	Parameter 'palette' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:111:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:112:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:124:	LocalVariableCouldBeFinal:	Local variable 'alpha' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:134:	LocalVariableCouldBeFinal:	Local variable 'params' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:135:	LocalVariableCouldBeFinal:	Local variable 'aspectRatio' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:136:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:137:	LocalVariableCouldBeFinal:	Local variable 'calculatedHeight' could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:145:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:148:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s6/AboutActivityDeep.java:154:	MethodArgumentCouldBeFinal:	Parameter 'view' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityDeep.java:207:	LocalVariableCouldBeFinal:	Local variable 'libsBuilder' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:30:	AtLeastOneConstructor:	Each class should declare at least one constructor
+Java-code-ai/java/s6/AboutActivityGemini.java:37:	LongVariable:	Avoid excessively long variable names like mCollapsingToolbarLayout
+Java-code-ai/java/s6/AboutActivityGemini.java:39:	LongVariable:	Avoid excessively long variable names like mDeveloper1Divider
+Java-code-ai/java/s6/AboutActivityGemini.java:42:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
+Java-code-ai/java/s6/AboutActivityGemini.java:43:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
+Java-code-ai/java/s6/AboutActivityGemini.java:44:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
+Java-code-ai/java/s6/AboutActivityGemini.java:45:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
+Java-code-ai/java/s6/AboutActivityGemini.java:46:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
+Java-code-ai/java/s6/AboutActivityGemini.java:49:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
+Java-code-ai/java/s6/AboutActivityGemini.java:54:	LongVariable:	Avoid excessively long variable names like savedInstanceState
+Java-code-ai/java/s6/AboutActivityGemini.java:54:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:84:	LocalVariableCouldBeFinal:	Local variable 'mToolbar' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:95:	LocalVariableCouldBeFinal:	Local variable 'bitmap' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:97:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:97:	UselessQualifiedThis:	Useless qualified this usage in the same class.
+Java-code-ai/java/s6/AboutActivityGemini.java:98:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:98:	UselessQualifiedThis:	Useless qualified this usage in the same class.
+Java-code-ai/java/s6/AboutActivityGemini.java:114:	LocalVariableCouldBeFinal:	Local variable 'layoutParams' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:115:	LocalVariableCouldBeFinal:	Local variable 'aspectRatio' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:115:	UnnecessaryCast:	Unnecessary cast (float)
+Java-code-ai/java/s6/AboutActivityGemini.java:115:	UnnecessaryCast:	Unnecessary cast (float)
+Java-code-ai/java/s6/AboutActivityGemini.java:116:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:117:	LocalVariableCouldBeFinal:	Local variable 'requiredHeight' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:124:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:127:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s6/AboutActivityGemini.java:134:	LocalVariableCouldBeFinal:	Local variable 'dividerColor' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:141:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s6/AboutActivityGemini.java:141:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:142:	ShortVariable:	Avoid variables with short names like id
+Java-code-ai/java/s6/AboutActivityGemini.java:142:	LocalVariableCouldBeFinal:	Local variable 'id' could be declared final
+Java-code-ai/java/s6/AboutActivityGemini.java:171:	LocalVariableCouldBeFinal:	Local variable 'libsBuilder' could be declared final
