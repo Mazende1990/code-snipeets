@@ -90,7 +90,7 @@ public class BucketSort {
     public static int max(int[] arr) {
         int max = arr[0];
         for (int value : arr) {
-            if (value > max) {
+            if (value > max) { 
                 max = value;
             }
         }
