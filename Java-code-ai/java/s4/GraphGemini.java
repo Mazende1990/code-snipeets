@@ -243,8 +243,7 @@ public class GraphGemini<T extends Comparable<T>> {
             StringBuilder builder = new StringBuilder();
             builder.append("Value=").append(value).append(" weight=").append(weight).append("\n");
             for (Edge<T> edge : edges) {
-                builder.append("\t").append
-                edge.toString());
+                builder.append("\t").append(edge.toString());
             }
             return builder.toString();
         }

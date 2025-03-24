@@ -1,136 +1,572 @@
-Java-code-ai/java/s7/BucketSort.java:15:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
-Java-code-ai/java/s7/BucketSort.java:18:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
-Java-code-ai/java/s7/BucketSort.java:36:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSort.java:37:	LocalVariableCouldBeFinal:	Local variable 'min' could be declared final
-Java-code-ai/java/s7/BucketSort.java:38:	LocalVariableCouldBeFinal:	Local variable 'max' could be declared final
-Java-code-ai/java/s7/BucketSort.java:39:	LocalVariableCouldBeFinal:	Local variable 'numberOfBuckets' could be declared final
-Java-code-ai/java/s7/BucketSort.java:42:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
-Java-code-ai/java/s7/BucketSort.java:48:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSort.java:49:	LocalVariableCouldBeFinal:	Local variable 'bucketIndex' could be declared final
-Java-code-ai/java/s7/BucketSort.java:54:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
-Java-code-ai/java/s7/BucketSort.java:60:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
-Java-code-ai/java/s7/BucketSort.java:61:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSort.java:75:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSort.java:75:	MethodArgumentCouldBeFinal:	Parameter 'min' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSort.java:75:	MethodArgumentCouldBeFinal:	Parameter 'numberOfBuckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSort.java:85:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSort.java:87:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSort.java:101:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSort.java:103:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:23:	LocalVariableCouldBeFinal:	Local variable 'numbers' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:40:	MethodArgumentCouldBeFinal:	Parameter 'size' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:40:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:40:	MethodArgumentCouldBeFinal:	Parameter 'maxValue' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:41:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:42:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:43:	LocalVariableCouldBeFinal:	Local variable 'range' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:58:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:70:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:76:	LocalVariableCouldBeFinal:	Local variable 'minValue' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:77:	LocalVariableCouldBeFinal:	Local variable 'maxValue' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:78:	LocalVariableCouldBeFinal:	Local variable 'range' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:81:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:96:	MethodArgumentCouldBeFinal:	Parameter 'numberOfBuckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:97:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:114:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:114:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:114:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:114:	MethodArgumentCouldBeFinal:	Parameter 'range' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:115:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:116:	LocalVariableCouldBeFinal:	Local variable 'bucketIndex' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:129:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:129:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:129:	MethodArgumentCouldBeFinal:	Parameter 'range' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:139:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:139:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:142:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:145:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:157:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:163:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:177:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortClaude.java:183:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:14:	LocalVariableCouldBeFinal:	Local variable 'arr' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:17:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:35:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:36:	LocalVariableCouldBeFinal:	Local variable 'max' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:37:	LocalVariableCouldBeFinal:	Local variable 'min' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:38:	LocalVariableCouldBeFinal:	Local variable 'numberOfBuckets' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:40:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:48:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:49:	LocalVariableCouldBeFinal:	Local variable 'hash' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:54:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:60:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:61:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:75:	MethodArgumentCouldBeFinal:	Parameter 'elem' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:75:	MethodArgumentCouldBeFinal:	Parameter 'min' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:75:	MethodArgumentCouldBeFinal:	Parameter 'numberOfBuckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:85:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:87:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:101:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortCo.java:103:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:15:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:28:	MethodArgumentCouldBeFinal:	Parameter 'size' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:28:	MethodArgumentCouldBeFinal:	Parameter 'min' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:28:	MethodArgumentCouldBeFinal:	Parameter 'max' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:29:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:30:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:43:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:54:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:59:	LocalVariableCouldBeFinal:	Local variable 'maxValue' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:60:	LocalVariableCouldBeFinal:	Local variable 'minValue' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:61:	LocalVariableCouldBeFinal:	Local variable 'bucketCount' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:63:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:75:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:76:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:91:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:92:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:92:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:92:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:93:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:94:	LocalVariableCouldBeFinal:	Local variable 'bucketIndex' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:104:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:105:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:116:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:116:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:118:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:119:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:133:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:133:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:133:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:143:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:145:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:159:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortDeep.java:161:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:14:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:24:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:25:	LocalVariableCouldBeFinal:	Local variable 'minValue' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:26:	LocalVariableCouldBeFinal:	Local variable 'maxValue' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:27:	LocalVariableCouldBeFinal:	Local variable 'bucketCount' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:29:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:43:	MethodArgumentCouldBeFinal:	Parameter 'size' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:43:	MethodArgumentCouldBeFinal:	Parameter 'min' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:43:	MethodArgumentCouldBeFinal:	Parameter 'max' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:44:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:45:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:58:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:59:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:74:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:74:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:74:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:74:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:75:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:76:	LocalVariableCouldBeFinal:	Local variable 'bucketIndex' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:89:	MethodArgumentCouldBeFinal:	Parameter 'element' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:89:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:89:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:98:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:99:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:110:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:110:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:112:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:113:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:125:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:127:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:141:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:143:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
-Java-code-ai/java/s7/BucketSortGem.java:156:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:20:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:24:	ShortVariable:	Avoid variables with short names like g
+Java-code-ai/java/s4/Graph.java:24:	MethodArgumentCouldBeFinal:	Parameter 'g' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:26:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:26:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Java-code-ai/java/s4/Graph.java:27:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:27:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Java-code-ai/java/s4/Graph.java:30:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:30:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:34:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:34:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:34:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:39:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/Graph.java:40:	LocalVariableCouldBeFinal:	Local variable 'from' could be declared final
+Java-code-ai/java/s4/Graph.java:41:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/Graph.java:41:	LocalVariableCouldBeFinal:	Local variable 'to' could be declared final
+Java-code-ai/java/s4/Graph.java:42:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:46:	LocalVariableCouldBeFinal:	Local variable 'reciprocal' could be declared final
+Java-code-ai/java/s4/Graph.java:63:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:64:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/Graph.java:64:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:65:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/Graph.java:72:	ShortVariable:	Avoid variables with short names like sb
+Java-code-ai/java/s4/Graph.java:72:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+Java-code-ai/java/s4/Graph.java:73:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:73:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Java-code-ai/java/s4/Graph.java:82:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:83:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:83:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:84:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:88:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:89:	ShortVariable:	Avoid variables with short names like e
+Java-code-ai/java/s4/Graph.java:89:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:92:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s4/Graph.java:92:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:96:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s4/Graph.java:96:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:106:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:107:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/Graph.java:107:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:108:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/Graph.java:113:	ShortVariable:	Avoid variables with short names like o
+Java-code-ai/java/s4/Graph.java:113:	MethodArgumentCouldBeFinal:	Parameter 'o' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:115:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/Graph.java:115:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:117:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/Graph.java:117:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:123:	ShortVariable:	Avoid variables with short names like sb
+Java-code-ai/java/s4/Graph.java:123:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+Java-code-ai/java/s4/Graph.java:125:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:125:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/Graph.java:130:	ShortClassName:	Avoid short class names like Edge
+Java-code-ai/java/s4/Graph.java:132:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/Graph.java:135:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:135:	MethodArgumentCouldBeFinal:	Parameter 'from' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:135:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/Graph.java:135:	MethodArgumentCouldBeFinal:	Parameter 'to' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:136:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:140:	ShortVariable:	Avoid variables with short names like e
+Java-code-ai/java/s4/Graph.java:140:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:143:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:153:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:154:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/Graph.java:154:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:155:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/Graph.java:160:	ShortVariable:	Avoid variables with short names like o
+Java-code-ai/java/s4/Graph.java:160:	MethodArgumentCouldBeFinal:	Parameter 'o' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:162:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/Graph.java:162:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:164:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/Graph.java:164:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:179:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:179:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:180:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:186:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:193:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:194:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/Graph.java:194:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:195:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/Graph.java:200:	ShortVariable:	Avoid variables with short names like o
+Java-code-ai/java/s4/Graph.java:200:	MethodArgumentCouldBeFinal:	Parameter 'o' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:214:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:214:	MethodArgumentCouldBeFinal:	Parameter 'path' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:215:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:221:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:230:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/Graph.java:231:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/Graph.java:231:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:232:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/Graph.java:238:	ShortVariable:	Avoid variables with short names like sb
+Java-code-ai/java/s4/Graph.java:238:	LocalVariableCouldBeFinal:	Local variable 'sb' could be declared final
+Java-code-ai/java/s4/Graph.java:239:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/Graph.java:239:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:44:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:53:	MethodArgumentCouldBeFinal:	Parameter 'sourceGraph' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:57:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:62:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:63:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:78:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:78:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:92:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:92:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:92:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:106:	MethodArgumentCouldBeFinal:	Parameter 'edgeCollection' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:107:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:121:	LocalVariableCouldBeFinal:	Local variable 'reciprocalEdge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:156:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:160:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:171:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:173:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:182:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:187:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:192:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:201:	MethodArgumentCouldBeFinal:	Parameter 'vertices1' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:201:	MethodArgumentCouldBeFinal:	Parameter 'vertices2' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:211:	ShortVariable:	Avoid variables with short names like v1
+Java-code-ai/java/s4/GraphClaude.java:212:	ShortVariable:	Avoid variables with short names like v2
+Java-code-ai/java/s4/GraphClaude.java:214:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:224:	MethodArgumentCouldBeFinal:	Parameter 'edges1' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:224:	MethodArgumentCouldBeFinal:	Parameter 'edges2' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:234:	ShortVariable:	Avoid variables with short names like e1
+Java-code-ai/java/s4/GraphClaude.java:235:	ShortVariable:	Avoid variables with short names like e2
+Java-code-ai/java/s4/GraphClaude.java:237:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:250:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:270:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:281:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:281:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:291:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:316:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:325:	MethodArgumentCouldBeFinal:	Parameter 'edge' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:342:	MethodArgumentCouldBeFinal:	Parameter 'targetVertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:343:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:345:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:357:	MethodArgumentCouldBeFinal:	Parameter 'targetVertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:358:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:360:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:379:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:381:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:390:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:403:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:414:	MethodArgumentCouldBeFinal:	Parameter 'otherVertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:418:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:422:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:422:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:423:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:423:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:426:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:426:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:427:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:427:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:437:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:437:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:438:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:438:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:452:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:463:	ShortClassName:	Avoid short class names like Edge
+Java-code-ai/java/s4/GraphClaude.java:466:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphClaude.java:477:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:477:	MethodArgumentCouldBeFinal:	Parameter 'from' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:477:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphClaude.java:477:	MethodArgumentCouldBeFinal:	Parameter 'to' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:492:	MethodArgumentCouldBeFinal:	Parameter 'edge' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:508:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:531:	UselessParentheses:	Useless parentheses.
+Java-code-ai/java/s4/GraphClaude.java:531:	UselessParentheses:	Useless parentheses.
+Java-code-ai/java/s4/GraphClaude.java:539:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:541:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:556:	MethodArgumentCouldBeFinal:	Parameter 'otherEdge' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:558:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:558:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:559:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:559:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:564:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:576:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:602:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:602:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:623:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:639:	UselessParentheses:	Useless parentheses.
+Java-code-ai/java/s4/GraphClaude.java:646:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:648:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:661:	MethodArgumentCouldBeFinal:	Parameter 'otherPair' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:667:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:667:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:668:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:668:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphClaude.java:701:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:701:	MethodArgumentCouldBeFinal:	Parameter 'path' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:722:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:739:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:749:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphClaude.java:751:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:758:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:766:	LocalVariableCouldBeFinal:	Local variable 'thisEdge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:767:	LocalVariableCouldBeFinal:	Local variable 'otherEdge' could be declared final
+Java-code-ai/java/s4/GraphClaude.java:770:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphClaude.java:785:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphCo.java:31:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:36:	ShortVariable:	Avoid variables with short names like g
+Java-code-ai/java/s4/GraphCo.java:36:	MethodArgumentCouldBeFinal:	Parameter 'g' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:38:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Java-code-ai/java/s4/GraphCo.java:41:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Java-code-ai/java/s4/GraphCo.java:42:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/GraphCo.java:57:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:57:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:70:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:70:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:70:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:74:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/GraphCo.java:76:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphCo.java:77:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:80:	LocalVariableCouldBeFinal:	Local variable 'reciprocal' could be declared final
+Java-code-ai/java/s4/GraphCo.java:102:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Java-code-ai/java/s4/GraphCo.java:105:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/GraphCo.java:112:	ShortVariable:	Avoid variables with short names like g1
+Java-code-ai/java/s4/GraphCo.java:112:	MethodArgumentCouldBeFinal:	Parameter 'g1' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:113:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:113:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:114:	ShortVariable:	Avoid variables with short names like g
+Java-code-ai/java/s4/GraphCo.java:115:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:115:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:116:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:116:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:117:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:117:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:124:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:124:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:132:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:132:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:141:	LocalVariableCouldBeFinal:	Local variable 'v' could be declared final
+Java-code-ai/java/s4/GraphCo.java:153:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:157:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:157:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:163:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:176:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:180:	ShortVariable:	Avoid variables with short names like e
+Java-code-ai/java/s4/GraphCo.java:180:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:188:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s4/GraphCo.java:188:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:189:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/GraphCo.java:190:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:190:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:195:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s4/GraphCo.java:195:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:196:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/GraphCo.java:197:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:197:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:209:	ShortVariable:	Avoid variables with short names like v1
+Java-code-ai/java/s4/GraphCo.java:209:	MethodArgumentCouldBeFinal:	Parameter 'v1' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:210:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:210:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:211:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s4/GraphCo.java:212:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:212:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:213:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:213:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:214:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:214:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:219:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:219:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:225:	ShortVariable:	Avoid variables with short names like v
+Java-code-ai/java/s4/GraphCo.java:225:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:226:	LocalVariableCouldBeFinal:	Local variable 'valueComp' could be declared final
+Java-code-ai/java/s4/GraphCo.java:227:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:227:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:228:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:228:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:229:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:229:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:234:	LocalVariableCouldBeFinal:	Local variable 'costComp' could be declared final
+Java-code-ai/java/s4/GraphCo.java:235:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:235:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:244:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/GraphCo.java:251:	ShortClassName:	Avoid short class names like Edge
+Java-code-ai/java/s4/GraphCo.java:254:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphCo.java:257:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:257:	MethodArgumentCouldBeFinal:	Parameter 'from' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:257:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphCo.java:257:	MethodArgumentCouldBeFinal:	Parameter 'to' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:266:	ShortVariable:	Avoid variables with short names like e
+Java-code-ai/java/s4/GraphCo.java:266:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:274:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:288:	UselessParentheses:	Useless parentheses.
+Java-code-ai/java/s4/GraphCo.java:288:	UselessParentheses:	Useless parentheses.
+Java-code-ai/java/s4/GraphCo.java:293:	ShortVariable:	Avoid variables with short names like e1
+Java-code-ai/java/s4/GraphCo.java:293:	MethodArgumentCouldBeFinal:	Parameter 'e1' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:294:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:294:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:295:	ShortVariable:	Avoid variables with short names like e
+Java-code-ai/java/s4/GraphCo.java:296:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:296:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:297:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:297:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:298:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:298:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:303:	ShortVariable:	Avoid variables with short names like e
+Java-code-ai/java/s4/GraphCo.java:303:	MethodArgumentCouldBeFinal:	Parameter 'e' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:304:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:304:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:305:	LocalVariableCouldBeFinal:	Local variable 'fromComp' could be declared final
+Java-code-ai/java/s4/GraphCo.java:306:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:306:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:321:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:321:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:322:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:331:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:341:	UselessParentheses:	Useless parentheses.
+Java-code-ai/java/s4/GraphCo.java:345:	ShortVariable:	Avoid variables with short names like e1
+Java-code-ai/java/s4/GraphCo.java:345:	MethodArgumentCouldBeFinal:	Parameter 'e1' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:346:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:346:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:348:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:348:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:353:	ShortVariable:	Avoid variables with short names like p
+Java-code-ai/java/s4/GraphCo.java:353:	MethodArgumentCouldBeFinal:	Parameter 'p' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:354:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:369:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:369:	MethodArgumentCouldBeFinal:	Parameter 'path' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:370:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:379:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:390:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/GraphCo.java:397:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphCo.java:398:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:398:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:400:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:400:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:405:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphCo.java:405:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphCo.java:414:	LocalVariableCouldBeFinal:	Local variable 'e' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:28:	FieldNamingConventions:	The field name 'GraphDeepType' doesn't match '[a-z][a-zA-Z0-9]*'
+Java-code-ai/java/s4/GraphDeep.java:32:	MethodArgumentCouldBeFinal:	Parameter 'GraphDeepType' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:32:	FormalParameterNamingConventions:	The method parameter name 'GraphDeepType' doesn't match '[a-z][a-zA-Z0-9]*'
+Java-code-ai/java/s4/GraphDeep.java:36:	MethodArgumentCouldBeFinal:	Parameter 'GraphDeep' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:36:	FormalParameterNamingConventions:	The method parameter name 'GraphDeep' doesn't match '[a-z][a-zA-Z0-9]*'
+Java-code-ai/java/s4/GraphDeep.java:40:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:44:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:45:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:51:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:51:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:55:	MethodArgumentCouldBeFinal:	Parameter 'GraphDeepType' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:55:	FormalParameterNamingConventions:	The method parameter name 'GraphDeepType' doesn't match '[a-z][a-zA-Z0-9]*'
+Java-code-ai/java/s4/GraphDeep.java:55:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:55:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:61:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:62:	LocalVariableCouldBeFinal:	Local variable 'from' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:63:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphDeep.java:63:	LocalVariableCouldBeFinal:	Local variable 'to' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:71:	LocalVariableCouldBeFinal:	Local variable 'reciprocal' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:93:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:96:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:103:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:105:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:108:	LocalVariableCouldBeFinal:	Local variable 'GraphDeep' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:108:	LocalVariableNamingConventions:	The local variable name 'GraphDeep' doesn't match '[a-z][a-zA-Z0-9]*'
+Java-code-ai/java/s4/GraphDeep.java:111:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:115:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:119:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:122:	LocalVariableCouldBeFinal:	Local variable 'thisVerticesArray' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:124:	LongVariable:	Avoid excessively long variable names like otherVerticesArray
+Java-code-ai/java/s4/GraphDeep.java:124:	LocalVariableCouldBeFinal:	Local variable 'otherVerticesArray' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:128:	LocalVariableCouldBeFinal:	Local variable 'thisVertex' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:129:	LocalVariableCouldBeFinal:	Local variable 'otherVertex' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:131:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:135:	LocalVariableCouldBeFinal:	Local variable 'thisEdgesArray' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:137:	LocalVariableCouldBeFinal:	Local variable 'otherEdgesArray' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:141:	LocalVariableCouldBeFinal:	Local variable 'thisEdge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:142:	LocalVariableCouldBeFinal:	Local variable 'otherEdge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:144:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:153:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:154:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:166:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:170:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:170:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:175:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:188:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:192:	MethodArgumentCouldBeFinal:	Parameter 'edge' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:200:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:201:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:203:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:209:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:210:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:212:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:220:	LocalVariableCouldBeFinal:	Local variable 'code' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:225:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:227:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:230:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:233:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:237:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:241:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:244:	LocalVariableCouldBeFinal:	Local variable 'thisEdgesIterator' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:245:	LongVariable:	Avoid excessively long variable names like otherEdgesIterator
+Java-code-ai/java/s4/GraphDeep.java:245:	LocalVariableCouldBeFinal:	Local variable 'otherEdgesIterator' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:247:	LocalVariableCouldBeFinal:	Local variable 'thisEdge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:248:	LocalVariableCouldBeFinal:	Local variable 'otherEdge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:250:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:258:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:259:	LocalVariableCouldBeFinal:	Local variable 'valueComparison' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:261:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:265:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:268:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:272:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:275:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:278:	LocalVariableCouldBeFinal:	Local variable 'thisEdgesIterator' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:279:	LongVariable:	Avoid excessively long variable names like otherEdgesIterator
+Java-code-ai/java/s4/GraphDeep.java:279:	LocalVariableCouldBeFinal:	Local variable 'otherEdgesIterator' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:281:	LocalVariableCouldBeFinal:	Local variable 'thisEdge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:282:	LocalVariableCouldBeFinal:	Local variable 'otherEdge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:284:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:287:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:296:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:298:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:305:	ShortClassName:	Avoid short class names like Edge
+Java-code-ai/java/s4/GraphDeep.java:308:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphDeep.java:311:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:311:	MethodArgumentCouldBeFinal:	Parameter 'from' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:311:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphDeep.java:311:	MethodArgumentCouldBeFinal:	Parameter 'to' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:321:	MethodArgumentCouldBeFinal:	Parameter 'edge' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:329:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:343:	LocalVariableCouldBeFinal:	Local variable 'code' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:343:	UselessParentheses:	Useless parentheses.
+Java-code-ai/java/s4/GraphDeep.java:348:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:350:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:353:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:356:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:360:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:364:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:371:	MethodArgumentCouldBeFinal:	Parameter 'edge' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:373:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:376:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:379:	LocalVariableCouldBeFinal:	Local variable 'fromComparison' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:381:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:401:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:401:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:414:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:424:	UselessParentheses:	Useless parentheses.
+Java-code-ai/java/s4/GraphDeep.java:428:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:430:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:433:	LocalVariableCouldBeFinal:	Local variable 'pair' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:435:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:442:	MethodArgumentCouldBeFinal:	Parameter 'pair' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:448:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:451:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:467:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:467:	MethodArgumentCouldBeFinal:	Parameter 'path' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:480:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:491:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:498:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphDeep.java:500:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:503:	LocalVariableCouldBeFinal:	Local variable 'pair' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:505:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:508:	LocalVariableCouldBeFinal:	Local variable 'thisPathIterator' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:509:	LocalVariableCouldBeFinal:	Local variable 'otherPathIterator' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:511:	LocalVariableCouldBeFinal:	Local variable 'thisEdge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:512:	LocalVariableCouldBeFinal:	Local variable 'otherEdge' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:514:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphDeep.java:523:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
+Java-code-ai/java/s4/GraphDeep.java:525:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:33:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:40:	MethodArgumentCouldBeFinal:	Parameter 'GraphGemini' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:40:	FormalParameterNamingConventions:	The method parameter name 'GraphGemini' doesn't match '[a-z][a-zA-Z0-9]*'
+Java-code-ai/java/s4/GraphGemini.java:42:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:45:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:46:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:61:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:61:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:74:	MethodArgumentCouldBeFinal:	Parameter 'type' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:74:	MethodArgumentCouldBeFinal:	Parameter 'vertices' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:74:	MethodArgumentCouldBeFinal:	Parameter 'edges' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:78:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:79:	LocalVariableCouldBeFinal:	Local variable 'from' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:80:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphGemini.java:80:	LocalVariableCouldBeFinal:	Local variable 'to' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:84:	LocalVariableCouldBeFinal:	Local variable 'reciprocal' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:110:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:111:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:111:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:112:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:112:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:113:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:115:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:118:	LocalVariableCouldBeFinal:	Local variable 'sortedVertices1' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:120:	LocalVariableCouldBeFinal:	Local variable 'sortedVertices2' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:123:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:126:	LocalVariableCouldBeFinal:	Local variable 'sortedEdges1' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:128:	LocalVariableCouldBeFinal:	Local variable 'sortedEdges2' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:135:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:136:	LocalVariableCouldBeFinal:	Local variable 'vertex' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:148:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:152:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:152:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:160:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:173:	MethodArgumentCouldBeFinal:	Parameter 'weight' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:177:	MethodArgumentCouldBeFinal:	Parameter 'edge' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:185:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:186:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:188:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:194:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:195:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:197:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:209:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:210:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:210:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:211:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:211:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:212:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:214:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:216:	LocalVariableCouldBeFinal:	Local variable 'iter1' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:217:	LocalVariableCouldBeFinal:	Local variable 'iter2' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:220:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:227:	MethodArgumentCouldBeFinal:	Parameter 'other' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:228:	LocalVariableCouldBeFinal:	Local variable 'valueComparison' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:229:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:229:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:230:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:230:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:231:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:231:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:232:	LocalVariableCouldBeFinal:	Local variable 'iter1' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:233:	LocalVariableCouldBeFinal:	Local variable 'iter2' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:235:	LocalVariableCouldBeFinal:	Local variable 'costComparison' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:236:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:236:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:243:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:245:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:252:	ShortClassName:	Avoid short class names like Edge
+Java-code-ai/java/s4/GraphGemini.java:255:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphGemini.java:258:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:258:	MethodArgumentCouldBeFinal:	Parameter 'from' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:258:	ShortVariable:	Avoid variables with short names like to
+Java-code-ai/java/s4/GraphGemini.java:258:	MethodArgumentCouldBeFinal:	Parameter 'to' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:267:	MethodArgumentCouldBeFinal:	Parameter 'edge' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:275:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:293:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:294:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:294:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:295:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:295:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:296:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:301:	MethodArgumentCouldBeFinal:	Parameter 'other' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:302:	LocalVariableCouldBeFinal:	Local variable 'costComparison' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:303:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:303:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:304:	LocalVariableCouldBeFinal:	Local variable 'fromComparison' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:305:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:305:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:320:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:320:	MethodArgumentCouldBeFinal:	Parameter 'vertex' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:332:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:346:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:347:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:347:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:348:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:348:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:349:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:354:	MethodArgumentCouldBeFinal:	Parameter 'other' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:372:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:372:	MethodArgumentCouldBeFinal:	Parameter 'path' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:384:	MethodArgumentCouldBeFinal:	Parameter 'cost' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:398:	MethodArgumentCouldBeFinal:	Parameter 'obj' is not assigned and could be declared final
+Java-code-ai/java/s4/GraphGemini.java:399:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:399:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:400:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:400:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:401:	LocalVariableCouldBeFinal:	Local variable 'other' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:402:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:402:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:404:	LocalVariableCouldBeFinal:	Local variable 'iter1' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:405:	LocalVariableCouldBeFinal:	Local variable 'iter2' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:407:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
+Java-code-ai/java/s4/GraphGemini.java:407:	ControlStatementBraces:	This statement should have braces
+Java-code-ai/java/s4/GraphGemini.java:414:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
+Java-code-ai/java/s4/GraphGemini.java:416:	LocalVariableCouldBeFinal:	Local variable 'edge' could be declared final
