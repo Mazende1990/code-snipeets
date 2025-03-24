@@ -1,4 +1,4 @@
-package javacodehuman;
+package javacodehuman.s3;
 
 import java.util.*;
 
