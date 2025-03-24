@@ -1,140 +1,136 @@
-Java-code-ai/java/s6/AboutActivity.java:30:	AtLeastOneConstructor:	Each class should declare at least one constructor
-Java-code-ai/java/s6/AboutActivity.java:36:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
-Java-code-ai/java/s6/AboutActivity.java:37:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
-Java-code-ai/java/s6/AboutActivity.java:38:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
-Java-code-ai/java/s6/AboutActivity.java:39:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
-Java-code-ai/java/s6/AboutActivity.java:40:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
-Java-code-ai/java/s6/AboutActivity.java:43:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
-Java-code-ai/java/s6/AboutActivity.java:48:	LongVariable:	Avoid excessively long variable names like mCollapsingToolbarLayout
-Java-code-ai/java/s6/AboutActivity.java:50:	LongVariable:	Avoid excessively long variable names like mDeveloper1Divider
-Java-code-ai/java/s6/AboutActivity.java:54:	LongVariable:	Avoid excessively long variable names like savedInstanceState
-Java-code-ai/java/s6/AboutActivity.java:54:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivity.java:88:	LocalVariableCouldBeFinal:	Local variable 'mToolbar' could be declared final
-Java-code-ai/java/s6/AboutActivity.java:96:	LocalVariableCouldBeFinal:	Local variable 'bitmap' could be declared final
-Java-code-ai/java/s6/AboutActivity.java:98:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivity.java:99:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivity.java:117:	LocalVariableCouldBeFinal:	Local variable 'layoutParams' could be declared final
-Java-code-ai/java/s6/AboutActivity.java:119:	LocalVariableCouldBeFinal:	Local variable 'aspectRatio' could be declared final
-Java-code-ai/java/s6/AboutActivity.java:120:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
-Java-code-ai/java/s6/AboutActivity.java:128:	LocalVariableCouldBeFinal:	Local variable 'color' could be declared final
-Java-code-ai/java/s6/AboutActivity.java:135:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivity.java:138:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Java-code-ai/java/s6/AboutActivity.java:144:	ShortVariable:	Avoid variables with short names like v
-Java-code-ai/java/s6/AboutActivity.java:144:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivity.java:186:	LocalVariableCouldBeFinal:	Local variable 'builder' could be declared final
-Java-code-ai/java/s6/AboutActivity.java:218:	ControlStatementBraces:	This statement should have braces
-Java-code-ai/java/s6/AboutActivityClaude.java:34:	AtLeastOneConstructor:	Each class should declare at least one constructor
-Java-code-ai/java/s6/AboutActivityClaude.java:43:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
-Java-code-ai/java/s6/AboutActivityClaude.java:44:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
-Java-code-ai/java/s6/AboutActivityClaude.java:45:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
-Java-code-ai/java/s6/AboutActivityClaude.java:46:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
-Java-code-ai/java/s6/AboutActivityClaude.java:51:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
-Java-code-ai/java/s6/AboutActivityClaude.java:52:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
-Java-code-ai/java/s6/AboutActivityClaude.java:58:	LongVariable:	Avoid excessively long variable names like collapsingToolbarLayout
-Java-code-ai/java/s6/AboutActivityClaude.java:65:	LongVariable:	Avoid excessively long variable names like savedInstanceState
-Java-code-ai/java/s6/AboutActivityClaude.java:65:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:79:	LocalVariableCouldBeFinal:	Local variable 'theme' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:107:	LocalVariableCouldBeFinal:	Local variable 'toolbar' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:122:	LocalVariableCouldBeFinal:	Local variable 'alphaRatio' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:135:	LocalVariableCouldBeFinal:	Local variable 'headerBitmap' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:139:	LocalVariableCouldBeFinal:	Local variable 'primaryColor' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:139:	UselessQualifiedThis:	Useless qualified this usage in the same class.
-Java-code-ai/java/s6/AboutActivityClaude.java:140:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:141:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:156:	LocalVariableCouldBeFinal:	Local variable 'theme' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:158:	LocalVariableCouldBeFinal:	Local variable 'dividerColor' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:170:	LocalVariableCouldBeFinal:	Local variable 'layoutParams' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:173:	LocalVariableCouldBeFinal:	Local variable 'aspectRatio' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:173:	UnnecessaryCast:	Unnecessary cast (float)
-Java-code-ai/java/s6/AboutActivityClaude.java:173:	UnnecessaryCast:	Unnecessary cast (float)
-Java-code-ai/java/s6/AboutActivityClaude.java:174:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:175:	LocalVariableCouldBeFinal:	Local variable 'calculatedHeight' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:186:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:189:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Java-code-ai/java/s6/AboutActivityClaude.java:195:	ShortVariable:	Avoid variables with short names like v
-Java-code-ai/java/s6/AboutActivityClaude.java:195:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:196:	ShortVariable:	Avoid variables with short names like id
-Java-code-ai/java/s6/AboutActivityClaude.java:196:	LocalVariableCouldBeFinal:	Local variable 'id' could be declared final
-Java-code-ai/java/s6/AboutActivityClaude.java:229:	LocalVariableCouldBeFinal:	Local variable 'libsBuilder' could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:33:	AtLeastOneConstructor:	Each class should declare at least one constructor
-Java-code-ai/java/s6/AboutActivityCo.java:40:	LongVariable:	Avoid excessively long variable names like mCollapsingToolbarLayout
-Java-code-ai/java/s6/AboutActivityCo.java:42:	LongVariable:	Avoid excessively long variable names like mDeveloper1Divider
-Java-code-ai/java/s6/AboutActivityCo.java:45:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
-Java-code-ai/java/s6/AboutActivityCo.java:46:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
-Java-code-ai/java/s6/AboutActivityCo.java:47:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
-Java-code-ai/java/s6/AboutActivityCo.java:48:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
-Java-code-ai/java/s6/AboutActivityCo.java:49:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
-Java-code-ai/java/s6/AboutActivityCo.java:52:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
-Java-code-ai/java/s6/AboutActivityCo.java:57:	LongVariable:	Avoid excessively long variable names like savedInstanceState
-Java-code-ai/java/s6/AboutActivityCo.java:57:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:92:	LocalVariableCouldBeFinal:	Local variable 'mToolbar' could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:101:	LocalVariableCouldBeFinal:	Local variable 'bitmap' could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:103:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:103:	UselessQualifiedThis:	Useless qualified this usage in the same class.
-Java-code-ai/java/s6/AboutActivityCo.java:104:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:104:	UselessQualifiedThis:	Useless qualified this usage in the same class.
-Java-code-ai/java/s6/AboutActivityCo.java:123:	LocalVariableCouldBeFinal:	Local variable 'layoutParams' could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:124:	LocalVariableCouldBeFinal:	Local variable 'vidAspectRatio' could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:125:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:126:	LongVariable:	Avoid excessively long variable names like reqHeightAsPerAspectRatio
-Java-code-ai/java/s6/AboutActivityCo.java:126:	LocalVariableCouldBeFinal:	Local variable 'reqHeightAsPerAspectRatio' could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:133:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:148:	ShortVariable:	Avoid variables with short names like v
-Java-code-ai/java/s6/AboutActivityCo.java:148:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityCo.java:190:	LocalVariableCouldBeFinal:	Local variable 'libsBuilder' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:21:	UnnecessaryImport:	Unused import 'com.amaze.filemanager.ui.theme.AppTheme'
-Java-code-ai/java/s6/AboutActivityDeep.java:32:	AtLeastOneConstructor:	Each class should declare at least one constructor
-Java-code-ai/java/s6/AboutActivityDeep.java:39:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
-Java-code-ai/java/s6/AboutActivityDeep.java:40:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
-Java-code-ai/java/s6/AboutActivityDeep.java:41:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
-Java-code-ai/java/s6/AboutActivityDeep.java:42:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
-Java-code-ai/java/s6/AboutActivityDeep.java:43:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
-Java-code-ai/java/s6/AboutActivityDeep.java:46:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
-Java-code-ai/java/s6/AboutActivityDeep.java:52:	LongVariable:	Avoid excessively long variable names like collapsingToolbarLayout
-Java-code-ai/java/s6/AboutActivityDeep.java:60:	LongVariable:	Avoid excessively long variable names like savedInstanceState
-Java-code-ai/java/s6/AboutActivityDeep.java:60:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:95:	LocalVariableCouldBeFinal:	Local variable 'toolbar' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:106:	LocalVariableCouldBeFinal:	Local variable 'bitmap' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:110:	MethodArgumentCouldBeFinal:	Parameter 'palette' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:111:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:112:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:124:	LocalVariableCouldBeFinal:	Local variable 'alpha' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:134:	LocalVariableCouldBeFinal:	Local variable 'params' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:135:	LocalVariableCouldBeFinal:	Local variable 'aspectRatio' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:136:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:137:	LocalVariableCouldBeFinal:	Local variable 'calculatedHeight' could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:145:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:148:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Java-code-ai/java/s6/AboutActivityDeep.java:154:	MethodArgumentCouldBeFinal:	Parameter 'view' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityDeep.java:207:	LocalVariableCouldBeFinal:	Local variable 'libsBuilder' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:30:	AtLeastOneConstructor:	Each class should declare at least one constructor
-Java-code-ai/java/s6/AboutActivityGemini.java:37:	LongVariable:	Avoid excessively long variable names like mCollapsingToolbarLayout
-Java-code-ai/java/s6/AboutActivityGemini.java:39:	LongVariable:	Avoid excessively long variable names like mDeveloper1Divider
-Java-code-ai/java/s6/AboutActivityGemini.java:42:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR1_GITHUB
-Java-code-ai/java/s6/AboutActivityGemini.java:43:	LongVariable:	Avoid excessively long variable names like URL_AUTHOR2_GITHUB
-Java-code-ai/java/s6/AboutActivityGemini.java:44:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER1_GITHUB
-Java-code-ai/java/s6/AboutActivityGemini.java:45:	LongVariable:	Avoid excessively long variable names like URL_DEVELOPER2_GITHUB
-Java-code-ai/java/s6/AboutActivityGemini.java:46:	LongVariable:	Avoid excessively long variable names like URL_REPO_CHANGELOG
-Java-code-ai/java/s6/AboutActivityGemini.java:49:	LongVariable:	Avoid excessively long variable names like URL_REPO_TRANSLATE
-Java-code-ai/java/s6/AboutActivityGemini.java:54:	LongVariable:	Avoid excessively long variable names like savedInstanceState
-Java-code-ai/java/s6/AboutActivityGemini.java:54:	MethodArgumentCouldBeFinal:	Parameter 'savedInstanceState' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:84:	LocalVariableCouldBeFinal:	Local variable 'mToolbar' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:95:	LocalVariableCouldBeFinal:	Local variable 'bitmap' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:97:	LocalVariableCouldBeFinal:	Local variable 'mutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:97:	UselessQualifiedThis:	Useless qualified this usage in the same class.
-Java-code-ai/java/s6/AboutActivityGemini.java:98:	LocalVariableCouldBeFinal:	Local variable 'darkMutedColor' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:98:	UselessQualifiedThis:	Useless qualified this usage in the same class.
-Java-code-ai/java/s6/AboutActivityGemini.java:114:	LocalVariableCouldBeFinal:	Local variable 'layoutParams' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:115:	LocalVariableCouldBeFinal:	Local variable 'aspectRatio' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:115:	UnnecessaryCast:	Unnecessary cast (float)
-Java-code-ai/java/s6/AboutActivityGemini.java:115:	UnnecessaryCast:	Unnecessary cast (float)
-Java-code-ai/java/s6/AboutActivityGemini.java:116:	LocalVariableCouldBeFinal:	Local variable 'screenWidth' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:117:	LocalVariableCouldBeFinal:	Local variable 'requiredHeight' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:124:	MethodArgumentCouldBeFinal:	Parameter 'item' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:127:	OnlyOneReturn:	A method should have only one exit point, and that should be the last statement in the method
-Java-code-ai/java/s6/AboutActivityGemini.java:134:	LocalVariableCouldBeFinal:	Local variable 'dividerColor' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:141:	ShortVariable:	Avoid variables with short names like v
-Java-code-ai/java/s6/AboutActivityGemini.java:141:	MethodArgumentCouldBeFinal:	Parameter 'v' is not assigned and could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:142:	ShortVariable:	Avoid variables with short names like id
-Java-code-ai/java/s6/AboutActivityGemini.java:142:	LocalVariableCouldBeFinal:	Local variable 'id' could be declared final
-Java-code-ai/java/s6/AboutActivityGemini.java:171:	LocalVariableCouldBeFinal:	Local variable 'libsBuilder' could be declared final
+Java-code-ai/java/s7/BucketSort.java:15:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
+Java-code-ai/java/s7/BucketSort.java:18:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
+Java-code-ai/java/s7/BucketSort.java:36:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSort.java:37:	LocalVariableCouldBeFinal:	Local variable 'min' could be declared final
+Java-code-ai/java/s7/BucketSort.java:38:	LocalVariableCouldBeFinal:	Local variable 'max' could be declared final
+Java-code-ai/java/s7/BucketSort.java:39:	LocalVariableCouldBeFinal:	Local variable 'numberOfBuckets' could be declared final
+Java-code-ai/java/s7/BucketSort.java:42:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
+Java-code-ai/java/s7/BucketSort.java:48:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSort.java:49:	LocalVariableCouldBeFinal:	Local variable 'bucketIndex' could be declared final
+Java-code-ai/java/s7/BucketSort.java:54:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
+Java-code-ai/java/s7/BucketSort.java:60:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
+Java-code-ai/java/s7/BucketSort.java:61:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSort.java:75:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSort.java:75:	MethodArgumentCouldBeFinal:	Parameter 'min' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSort.java:75:	MethodArgumentCouldBeFinal:	Parameter 'numberOfBuckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSort.java:85:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSort.java:87:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSort.java:101:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSort.java:103:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:23:	LocalVariableCouldBeFinal:	Local variable 'numbers' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:40:	MethodArgumentCouldBeFinal:	Parameter 'size' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:40:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:40:	MethodArgumentCouldBeFinal:	Parameter 'maxValue' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:41:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:42:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:43:	LocalVariableCouldBeFinal:	Local variable 'range' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:58:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:70:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:76:	LocalVariableCouldBeFinal:	Local variable 'minValue' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:77:	LocalVariableCouldBeFinal:	Local variable 'maxValue' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:78:	LocalVariableCouldBeFinal:	Local variable 'range' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:81:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:96:	MethodArgumentCouldBeFinal:	Parameter 'numberOfBuckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:97:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:114:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:114:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:114:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:114:	MethodArgumentCouldBeFinal:	Parameter 'range' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:115:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:116:	LocalVariableCouldBeFinal:	Local variable 'bucketIndex' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:129:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:129:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:129:	MethodArgumentCouldBeFinal:	Parameter 'range' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:139:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:139:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:142:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:145:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:157:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:163:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:177:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortClaude.java:183:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:14:	LocalVariableCouldBeFinal:	Local variable 'arr' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:17:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:35:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:36:	LocalVariableCouldBeFinal:	Local variable 'max' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:37:	LocalVariableCouldBeFinal:	Local variable 'min' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:38:	LocalVariableCouldBeFinal:	Local variable 'numberOfBuckets' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:40:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:48:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:49:	LocalVariableCouldBeFinal:	Local variable 'hash' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:54:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:60:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:61:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:75:	MethodArgumentCouldBeFinal:	Parameter 'elem' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:75:	MethodArgumentCouldBeFinal:	Parameter 'min' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:75:	MethodArgumentCouldBeFinal:	Parameter 'numberOfBuckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:85:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:87:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:101:	MethodArgumentCouldBeFinal:	Parameter 'arr' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortCo.java:103:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:15:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:28:	MethodArgumentCouldBeFinal:	Parameter 'size' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:28:	MethodArgumentCouldBeFinal:	Parameter 'min' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:28:	MethodArgumentCouldBeFinal:	Parameter 'max' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:29:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:30:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:43:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:54:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:59:	LocalVariableCouldBeFinal:	Local variable 'maxValue' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:60:	LocalVariableCouldBeFinal:	Local variable 'minValue' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:61:	LocalVariableCouldBeFinal:	Local variable 'bucketCount' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:63:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:75:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:76:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:91:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:92:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:92:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:92:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:93:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:94:	LocalVariableCouldBeFinal:	Local variable 'bucketIndex' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:104:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:105:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:116:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:116:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:118:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:119:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:133:	MethodArgumentCouldBeFinal:	Parameter 'value' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:133:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:133:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:143:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:145:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:159:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortDeep.java:161:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:14:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:24:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:25:	LocalVariableCouldBeFinal:	Local variable 'minValue' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:26:	LocalVariableCouldBeFinal:	Local variable 'maxValue' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:27:	LocalVariableCouldBeFinal:	Local variable 'bucketCount' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:29:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:43:	MethodArgumentCouldBeFinal:	Parameter 'size' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:43:	MethodArgumentCouldBeFinal:	Parameter 'min' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:43:	MethodArgumentCouldBeFinal:	Parameter 'max' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:44:	LocalVariableCouldBeFinal:	Local variable 'array' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:45:	LocalVariableCouldBeFinal:	Local variable 'random' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:58:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:59:	LocalVariableCouldBeFinal:	Local variable 'buckets' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:74:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:74:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:74:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:74:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:75:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:76:	LocalVariableCouldBeFinal:	Local variable 'bucketIndex' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:89:	MethodArgumentCouldBeFinal:	Parameter 'element' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:89:	MethodArgumentCouldBeFinal:	Parameter 'minValue' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:89:	MethodArgumentCouldBeFinal:	Parameter 'bucketCount' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:98:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:99:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:110:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:110:	MethodArgumentCouldBeFinal:	Parameter 'buckets' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:112:	LocalVariableCouldBeFinal:	Local variable 'bucket' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:113:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:125:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:127:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:141:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:143:	LocalVariableCouldBeFinal:	Local variable 'value' could be declared final
+Java-code-ai/java/s7/BucketSortGem.java:156:	MethodArgumentCouldBeFinal:	Parameter 'array' is not assigned and could be declared final
