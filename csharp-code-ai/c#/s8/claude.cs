@@ -22,7 +22,7 @@ namespace DataStructures
         {
             Add(time, value);
         }
-
+ 
         public Timeline(params TValue[] values) : this()
         {
             AddNow(values);
